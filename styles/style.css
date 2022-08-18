@@ -8,6 +8,7 @@ table {
   margin: auto;
   font-size: 38px;
   background-color: #000;
+  border-radius: 20px;
 }
 input {
   border-radius: 21px;
@@ -31,6 +32,6 @@ button {
   border: 10px solid #000;
   background-color: #6bcde4;
   padding: 30px;
-  border-radius: 50px;
+  border-radius: 30px;
   display: inline-block;
 }
